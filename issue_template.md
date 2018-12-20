@@ -2,10 +2,10 @@
 
 [Map & Coordinates]: 
 
-[Issue]: 
+[Issue]: Warriorsilence goes through Detterence. ALWAYS
 
 [Steps to reproduce the problem]:
 					
-[What's supposed to happen]: 
+[What's supposed to happen]: It should not go through Detterence
 
 [Extra notes] 'links to wowhead/youtube/wowwiki, etc... or an other relevant info': 
