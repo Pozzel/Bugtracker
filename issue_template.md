@@ -2,10 +2,10 @@
 
 [Map & Coordinates]: 
 
-[Issue]: 
+[Issue]: Commanding and Battleshout do not Cancel each other out
 
 [Steps to reproduce the problem]:
 					
-[What's supposed to happen]: 
+[What's supposed to happen]: They should cancel each other
 
 [Extra notes] 'links to wowhead/youtube/wowwiki, etc... or an other relevant info': 
